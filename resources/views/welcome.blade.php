@@ -37,7 +37,8 @@ $cek="beranda";
                 </div>
                 <div class="card-body">
                     <h4 class="card-title">Prognet Pertemuan Ketiga</h4>
-                    <p class="card-category">Animal CRUD</p>
+                    <p class="card-category">
+                    <span class="text-success"><i class="fa fa-long-arrow-up"></i> Nonaktif</span> Animal CRUD | Silahkan hubungi admin</p>
                 </div>
                 <div class="card-footer">
                     <div class="stats">
